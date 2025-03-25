@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I'm **Amarjeet**, an aspiring software engineer with a passion for building impactful solutions. From understanding machine-level bits to architecting full-scale applications, I strive to create something meaningful with the superpowers I've gained through learning.
+I'm **________**, an aspiring software engineer with a passion for building impactful solutions. From understanding machine-level bits to architecting full-scale applications, I strive to create something meaningful with the superpowers I've gained through learning.
 
 
 ### 💻 Tech Stack:
